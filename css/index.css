@@ -130,7 +130,14 @@ table {
 * {
   box-sizing: border-box;
 }
+/* Variables */
 html,
 body {
   height: 100%;
+  font-size: 62.5%;
+  font-family: 'Open Sans', sans-serif;
+}
+header img {
+  width: 20%;
+  height: 20%;
 }
